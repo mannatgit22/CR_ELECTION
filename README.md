@@ -10,7 +10,6 @@
 
 *A modern web-based Class Representative Election Platform designed to digitize and secure the democratic process in educational institutions.*
 
-**Developed by Mannat Mishra**
 
 </div>
 
@@ -226,9 +225,6 @@ Admin views real-time results and declares winner
 
 ---
 
-## 📜 License
-
-This project is developed for educational purposes.
 
 ---
 
